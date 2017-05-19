@@ -1,0 +1,6 @@
+## Interface: 20400
+## Title: HotSwap
+## Notes: Allows to quickly swap two raid members
+## Author: Ike
+
+HotSwap.lua
